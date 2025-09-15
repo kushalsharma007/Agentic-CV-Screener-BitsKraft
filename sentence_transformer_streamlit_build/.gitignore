@@ -1,0 +1,27 @@
+# Environment Variables
+.env
+.env.local
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit cache
+.streamlit/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*~
+
+# Dependency directories
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
