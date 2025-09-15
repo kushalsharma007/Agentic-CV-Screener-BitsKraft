@@ -6,7 +6,8 @@ transformers
 scikit-learn
 numpy
 matplotlib
+seaborn
+plotly
 python-docx
 pdf2image
 pytesseract
-PyMuPDF
