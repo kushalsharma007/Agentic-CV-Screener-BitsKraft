@@ -1,0 +1,6 @@
+resume_analyzer/
+│
+├── .env                  ← Add this
+├── streamlit_app.py
+├── model_handling.py
+└── qa_skills.json
